@@ -1,0 +1,4 @@
+Patient_ID,Name,Age,Gender,Thermal,Top_Remedy,Case_Notes,Radiology_Findings
+HOM-2026-0003,Rahul,25,Male,Hot,Nux vomica,Pain ko back pain bahut hi raha hai 10-12 din se woh sahi se so bhi nhi pa raha hai,
+HOM-2026-0002,Md Asad Imam,30,Male,Chilly,Bryonia alba,Joint pain worse in morning and releif by pressing on pain side,
+HOM-2026-0001,Rajesh Sharma (Demo),45,Male,Hot,Bryonia alba,"Acute knee & lower back pain with stitching character, worse from slightest motion, better by rest and firm pressure. Dry mouth with thirst for large quantities of cold water. Irritable mood, wants to be let alone.","X-Ray Right Knee: Joint space narrowing & osteophytes (Osteoarthritis). Blood Report: Elevated ESR (42 mm/hr) and Serum Uric Acid (8.1 mg/dL), Total Cholesterol 232 mg/dL."
